@@ -13,10 +13,10 @@
 HELP: You may consider that the moments of the distribution of values do not change over time. Is this approximation valid?
 - If we define three classes as follows.
 
-C_1={x∶ x ∈〖 p〗_x≤20} C_2={x∶ x ∈〖 20< p〗_x≤80} C_3={x∶ x∈〖 p〗_x>80}
-
-computes as a function of ▁x (where ▁x is the mean of x in the first 15 days) the membership of each class after 6 months from the first recorded measurement. 
-
-HELP: Perform supervised or multiclass classification or 1 class vs. the rest. Define training, validation and testing cohorts.
-
+    C_1={x∶ x ∈〖 p〗_x≤20} C_2={x∶ x ∈〖 20< p〗_x≤80} C_3={x∶ x∈〖 p〗_x>80}
+    
+    computes as a function of ▁x (where ▁x is the mean of x in the first 15 days) the membership of each class after 6 months from the first recorded measurement. 
+    
+    HELP: Perform supervised or multiclass classification or 1 class vs. the rest. Define training, validation and testing cohorts.
+    
 The programming process and the develop of the project is in [Trabajo_Final_Tecnicas.ipynb](/ProyectoFinal_TecnicasCienciaDatos//Trabajo_Final_Tecnicas.ipynb)
