@@ -6,7 +6,7 @@
     - Date of the score record.
     - The score obtained by the user after playing the game.
 
-    On the other hand, the company asks us to complete some [tasks](/ProyectoFinal_TecnicasCienciaDatos/EnunciadoTrabajo.docx) to show them the information they give us in an organized way and create a model to make a classification of the improvement of the patients in relation to a class they design. The tasks are:
+    On the other hand, the company asks us to complete some [tasks](/ProyectoFinal_TecnicasCienciaDatos/EnunciadoTrabajo.pdf) to show them the information they give us in an organized way and create a model to make a classification of the improvement of the patients in relation to a class they design. The tasks are:
 
 - Display the performance time series x_i (t) for each user i. Note that the number of points in each series is different.
 - Construct and visualize new time series of p_i (t), where at each point in time the p_x percentile of the performance value x computed over the entire sample is shown. 
