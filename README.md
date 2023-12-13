@@ -13,6 +13,6 @@ In this repository you will find all the most relevant works done in the Master 
 I hope it will be of help to possible readers who are looking for material. If you use this information in your personal works, I only ask that you make reference to this repository or to my LinkedIn profile: [Miguel Santiago Gómez Suárez](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
 
 index:
-- ProyectoFinal_TecnicasCecnicasCienciaDatos: Project focused on performing the whole process involved in generating a Machine Learning model from the search for data, data preparation and engineering to training the model and applying metrics to measure its efficiency.
+- ProyectoFinal_TecnicasCienciaDatos: Project focused on performing the whole process involved in generating a Machine Learning model from the search for data, data preparation and engineering to training the model and applying metrics to measure its efficiency.
 
 
