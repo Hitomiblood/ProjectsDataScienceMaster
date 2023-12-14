@@ -1,18 +1,16 @@
 # Master Works in Data Science and Artificial Intelligence
 
-In this repository you will find all the most relevant works done in the Master of Data Science and Artificial Intelligence at the University of La Rioja in Spain. Within it you will see different related topics such as:
+This repository contains the most relevant works completed during the Master of Data Science and Artificial Intelligence at the University of La Rioja in Spain. It covers various topics, including:
 
-- Clustering application.
+- Clustering applications.
 - Verification of clustering quality using internal and external metrics.
-- Data preprocessing with multiple techniques comparison.
+- Data preprocessing with a comparison of multiple techniques.
 - Training of classification and regression models.
-- Model improvement by hyperparameter tuning.
-- Model verification with the use of various metrics.
+- Model improvement through hyperparameter tuning.
+- Model verification using various metrics.
 - Interpretation of the obtained results.
 
-I hope it will be of help to possible readers who are looking for material. If you use this information in your personal works, I only ask that you make reference to this repository or to my LinkedIn profile: [Miguel Santiago Gómez Suárez](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
+I hope this repository proves helpful to readers seeking relevant material. If you use this information in your personal work, I kindly request that you reference this repository or my LinkedIn profile: [Miguel Santiago Gómez Suárez](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
 
-index:
-- ProyectoFinal_TecnicasCienciaDatos: Project focused on performing the whole process involved in generating a Machine Learning model from the search for data, data preparation and engineering to training the model and applying metrics to measure its efficiency.
-
-
+**Index:**
+- **ProyectoFinal_TecnicasCienciaDatos:** A project focused on the entire process of generating a machine learning model, from data discovery and preparation to model training and the application of metrics to measure its efficiency.
