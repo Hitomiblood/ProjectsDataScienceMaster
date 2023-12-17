@@ -15,9 +15,9 @@ Additionally, the company has [tasked](/ProyectoFinal_TecnicasCienciaDatos/Enunc
 
 3. Define three classes as follows:
 
-$$C_1 = \{x : x \in p_x \leq 20\}$$
-$$C_2 = \{x : 20 < p_x \leq 80\}$$
-$$C_3 = \{x : x \in p_x > 80\}$$
+- $$C_1 = \{x : x \in p_x \leq 20\}$$
+- $$C_2 = \{x : 20 < p_x \leq 80\}$$
+- $$C_3 = \{x : x \in p_x > 80\}$$
 
 Compute, as a function of $\bar{x}$ (where $\bar{x}$ is the mean of $x$ in the first 15 days), the membership of each class after 6 months from the first recorded measurement. **HELP:** Perform supervised or multiclass classification or 1 class vs. the rest. Define training, validation, and testing cohorts.
 
