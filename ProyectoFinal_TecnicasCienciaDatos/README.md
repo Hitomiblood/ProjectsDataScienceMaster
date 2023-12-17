@@ -11,7 +11,7 @@ Additionally, the company has [tasked](/ProyectoFinal_TecnicasCienciaDatos/Enunc
 
 1. Display the performance time series *x_i(t)* for each user *i*. Note that the number of data points in each series varies.
 
-2. Construct and visualize new time series *p_i(t)*, where at each time point, the *p_x* percentile of the performance value *x* computed over the entire sample is shown. **HELP:** You may assume that the distribution of values remains constant over time. Is this approximation valid?
+2. Construct and visualize new time series $p_i(t)$, where at each time point, the *p_x* percentile of the performance value *x* computed over the entire sample is shown. **HELP:** You may assume that the distribution of values remains constant over time. Is this approximation valid?
 
 3. Define three classes as follows:
    - *C_1* = {*x* : *x* in *p_x* ≤ 20}
