@@ -14,3 +14,4 @@ I hope this repository proves helpful to readers seeking relevant material. If y
 
 **Index:**
 - **ProyectoFinal_TecnicasCienciaDatos:** A project focused on the entire process of generating a machine learning model, from data discovery and preparation to model training and the application of metrics to measure its efficiency.
+- **ProyectoFinal_AprendizajeAutomatico_I:** This project explores the [Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster) dataset from Kaggle. We're examining various clustering techniques and determining the most effective one using both internal and external indices.
