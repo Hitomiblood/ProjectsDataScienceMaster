@@ -10,8 +10,8 @@ This repository contains the most relevant works completed during the Master of 
 - Model verification using various metrics.
 - Interpretation of the obtained results.
 
-I hope this repository proves helpful to readers seeking relevant material. If you use this information in your personal work, I kindly request that you reference this repository or my LinkedIn profile: [Miguel Santiago Gómez Suárez](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/)
+I hope this repository proves helpful to readers seeking relevant material. If you use this information in your personal work, I kindly request that you reference this repository or my LinkedIn profile: [Miguel Santiago Gómez Suárez](https://www.linkedin.com/in/miguel-santiago-g%C3%B3mez-su%C3%A1rez-83275420b/){:target="_blank"}
 
 **Index:**
 - **ProyectoFinal_TecnicasCienciaDatos:** A project focused on the entire process of generating a machine learning model, from data discovery and preparation to model training and the application of metrics to measure its efficiency.
-- **ProyectoFinal_AprendizajeAutomatico_I:** This project explores the [Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster) dataset from Kaggle. We're examining various clustering techniques and determining the most effective one using both internal and external indices.
+- **ProyectoFinal_AprendizajeAutomatico_I:** This project explores the [Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster){:target="_blank"} dataset from Kaggle. We're examining various clustering techniques and determining the most effective one using both internal and external indices.
