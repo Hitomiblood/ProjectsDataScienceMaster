@@ -4,12 +4,7 @@ This project encompasses information and a workflow for the Data Preparation fin
 
 I collaborated on this project with my esteemed partner, [Nicolas Maldonado](https://github.com/nlmaldonadog).
 
-<<<<<<< HEAD
 The main [NoteBook](Data_Preparation-Miguel_Nicolas.ipynb) serves as an example for creating a structured path, and the accompanying [Roadmap](Roadmap_TrabajoFinal.ipynb) provides a step-by-step guide for correct data preparation.
-=======
-- [Miguel Gómez](https://github.com/Hitomiblood)
-- Nicolás Maldonado
->>>>>>> 53e3c51491b0a66bbf3ffc8d4454ac071137fef9
 
 We utilized the [National Health Insurance Corporation_Health checkup information](https://www.data.go.kr/data/15007122/fileData.do) dataset, employing various techniques for both categorical and numerical data.
 
