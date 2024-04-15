@@ -496,7 +496,4 @@ class VideoAnalyzer:
                                      (colorVal[0] * 255, colorVal[1] * 255, colorVal[2] * 255), 2, cv.LINE_AA)
                 i += 1
             out.write(frame.output_frame)
-
-
-
         out.release()
