@@ -11,3 +11,4 @@ Proyecto_TFM/Prueba/CreacionYAML/
 Proyecto_TFM/Prueba/DatosBase/
 *.zip
 *.avi
+Proyecto_TFM/TestingModelos/Models/YoloV8Large_100Epochs/ModelInformation/detect/train/weights/best.torchscript
