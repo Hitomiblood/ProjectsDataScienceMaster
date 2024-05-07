@@ -10,6 +10,5 @@ Proyecto_TFM/DatosBase/
 Proyecto_TFM/Prueba/CreacionYAML/
 Proyecto_TFM/Prueba/DatosBase/
 Proyecto_TFM/TestingModelos/Models/YoloV8Large_100Epochs/
-Proyecto_TFM/TestingModelos/Models/YoloV8Medium_100Epochs/
 *.zip
 *.avi
