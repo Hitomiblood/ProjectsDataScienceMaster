@@ -20,6 +20,8 @@ The current project focuses on detecting live bee drone sperm using the YOLO v8 
 
 * [Videos](https://www.dropbox.com/scl/fi/vnyl0lbmzarkfm7jrt88h/Videos.zip?rlkey=4i3y4so9xnomins88tpgdls0z&st=ai5y6k6e&dl=0) Here you will be redirected to the zip file containing all the videos used in the processes.
 
+* Tracking Videos: Here you will be redirect to the video tracking folder of [BotSort Method](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/Eq7PEm_kJpBCm5-nWKWT1ykBxYQcNf5CPyj1Vqhv7WsoAA?e=hdnwxc) and [ByteTrack Method](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/Ehv1VqWt6JZGrH5X9H4AgPEBV6HdowjSohCXj0Rc98cS5Q?e=ea9nDY).
+
 ## Current Progress
 
 The training process for the mobile sperm detection model has been completed. Different sizes of neural networks based on YOLOv8 were used, along with varying input image sizes ranging from the standard size to the maximum resolution of the videos. The obtained results are as follows:
@@ -35,12 +37,12 @@ Currently, we are processing the first frame of all the videos used in the train
 Additionally, we are using the best trained model to generate videos where the movement trajectories of the mobile sperm are visualized using the two tracking methods provided by the YOLO library.
 
 ## Next Steps
-1. Obtain the regions of interest (ROI) from the first frame of each video.
-2. Perform image labeling.
-3. Build the dataset and YAML configuration file.
-4. Perform PseudoLabeling by extracting the ROIs from all frames of the videos and training the model.
-    * Structure sequential code for ROI extraction.
-    * Create a schema for saving annotations and adding images and annotations together for the YAML file.
+1. [x] Obtain the regions of interest (ROI) from the first frame of each video. You can find it [here](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/EiQ6OwZ20UNJme9Bnpp7QDMBv3sQ28NwRdytro0SRznJfQ?e=7cMSJJ).
+2. [ ] Perform image labeling.
+3. [ ] Build the dataset and YAML configuration file.
+4. [ ] Perform PseudoLabeling by extracting the ROIs from all frames of the videos and training the model.
+    * [ ] Structure sequential code for ROI extraction.
+    * [ ] Create a schema for saving annotations and adding images and annotations together for the YAML file.
 
 ## Conclusion
 This project aims to contribute to the field of bee reproductive biology by providing a reliable tool for drone sperm analysis, facilitating research in this crucial area.
