@@ -15,3 +15,4 @@ Proyecto_TFM/TestingModelos/Models/YoloV8Large_100Epochs/ModelInformation/detect
 Proyecto_TFM/DataSetsCreation/MotileSpermDetectionDataset/BaseDataForCreateYAMLConfiguration/Test/Output_acA1920-155um__22949301__20210628_094625267/Images_Original/frame_0.jpg
 Proyecto_TFM/Models/MotileDetection/Models/
 Proyecto_TFM/Models/MotileDetection/PostBestModel/Results/
+
