@@ -36,13 +36,32 @@ Currently, we are processing the first frame of all the videos used in the train
 
 Additionally, we are using the best trained model to generate videos where the movement trajectories of the mobile sperm are visualized using the two tracking methods provided by the YOLO library.
 
+### Recent Progress:
+- Labeled all images of the ROI obtained from the first frame of all videos.
+- Created the YAML configuration file.
+- Trained several models to predict the heads and selected the best one.
+
+<p align="center">
+  <img src="Models\HeadTailDetec\ComparacionModelos.jpg" alt="Models Results">
+</p>
+
+- Developed code to graph the trajectories of sperm heads using both [individual predictions](Models\CompletedProcess.ipynb) and [tracking predictions](Models\CompletedProcess_Track.ipynb) (using the two models: one detecting sperm and the other detecting heads and tails). The results indicate a need for a better head detection model.
+- Planned to perform PseudoLabeling by extracting ROIs from all training videos and cleaning the images of false positives. This process yields around 30,000 images. You can find the complete dataSet [here](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/EuvOXfeTSiJHjUowz-i4tPoBzADPK3AiAISFWXUukcGCAw?e=CE8Zmo).
+- Created [code](Models\HeadTailDetec\PseudoLabelingIterative.ipynb) for the PseudoLabeling process.
+
+### Current Status:
+We are currently retraining the model using the PseudoLabeling code to enhance its robustness.
+
+### Partial Conclusions:
+Tracking sperm heads is challenging due to the cost of manually labeling all images and the precision required. We need more accurate and smaller ROIs for heads and tails. Improving the current model should lead to better trajectory results.
+
 ## Next Steps
-1. [x] Obtain the regions of interest (ROI) from the first frame of each video. You can find it [here](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/EiQ6OwZ20UNJme9Bnpp7QDMBv3sQ28NwRdytro0SRznJfQ?e=7cMSJJ).
-2. [ ] Perform image labeling.
-3. [ ] Build the dataset and YAML configuration file.
-4. [ ] Perform PseudoLabeling by extracting the ROIs from all frames of the videos and training the model.
-    * [ ] Structure sequential code for ROI extraction.
-    * [ ] Create a schema for saving annotations and adding images and annotations together for the YAML file.
+[x] Obtain the regions of interest (ROI) from the first frame of each video. You can find it [here](https://unirioja-my.sharepoint.com/:f:/g/personal/migomesu_unirioja_es/EiQ6OwZ20UNJme9Bnpp7QDMBv3sQ28NwRdytro0SRznJfQ?e=7cMSJJ).
+[x] Perform image labeling.
+[x] Build the dataset and YAML configuration file.
+[x] Perform PseudoLabeling by extracting the ROIs from all frames of the videos and training the model.
+    * [x] Structure sequential code for ROI extraction.
+    * [x] Create a schema for saving annotations and adding images and annotations together for the YAML file.
 
 ## Conclusion
 This project aims to contribute to the field of bee reproductive biology by providing a reliable tool for drone sperm analysis, facilitating research in this crucial area.
