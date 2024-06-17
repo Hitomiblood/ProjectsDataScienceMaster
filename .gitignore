@@ -18,3 +18,5 @@ Proyecto_TFM/Models/MotileDetection/PostBestModel/Results/
 
 Proyecto_TFM/Models/HeadTailDetec/Models/
 Proyecto_TFM/DSetsCreation/HeTaSet/YAMLBase/dataSet/Unlabel/
+Proyecto_TFM/Models/HeadTailDetec/pseudolabelling/dataSet/
+Proyecto_TFM/Models/HeadTailDetec/pseudolabelling/runs/
